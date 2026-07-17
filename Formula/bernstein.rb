@@ -3,8 +3,8 @@ class Bernstein < Formula
 
   desc "Declarative agent orchestration for engineering teams"
   homepage "https://github.com/sipyourdrink-ltd/bernstein"
-  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-2.16.1.tar.gz"
-  sha256 "4f53737561e1aac32767cc7b1c94559f06c3eb3a28349a25150b2f481efb6506"
+  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.6.0.tar.gz"
+  sha256 ""
   license "Apache-2.0"
   head "https://github.com/sipyourdrink-ltd/bernstein.git", branch: "main"
 
