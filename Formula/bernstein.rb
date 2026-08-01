@@ -1,10 +1,10 @@
 class Bernstein < Formula
   include Language::Python::Virtualenv
 
-  desc "Declarative agent orchestration for engineering teams"
+  desc "Deterministic orchestrator for CLI coding agents"
   homepage "https://github.com/sipyourdrink-ltd/bernstein"
-  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.8.3.tar.gz"
-  sha256 ""
+  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.12.0.tar.gz"
+  sha256 "c445436a5ef299f9bc90bf7b7149d358cc0979c1dba84f9d32250851e8f9fa34"
   license "Apache-2.0"
   head "https://github.com/sipyourdrink-ltd/bernstein.git", branch: "main"
 
