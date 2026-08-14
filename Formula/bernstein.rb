@@ -4,8 +4,8 @@ class Bernstein < Formula
   desc "Deterministic orchestrator for CLI coding agents"
   homepage "https://github.com/sipyourdrink-ltd/bernstein"
   # URL and sha256 are auto-updated by CI on each release
-  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.14.159.tar.gz"
-  sha256 "bf2bf1b59b800f1bebae95c48e036843b648ad134147887cf8716abebcbaf709"
+  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.15.0.tar.gz"
+  sha256 "3c54a06321d7b5a1036945345d0408dc8edd5936326c1501c43607eda81a8f2b"
   license "Apache-2.0"
   head "https://github.com/sipyourdrink-ltd/bernstein.git", branch: "main"
 
