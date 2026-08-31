@@ -1,11 +1,11 @@
 class Bernstein < Formula
   include Language::Python::Virtualenv
 
-  desc "Deterministic orchestrator for CLI coding agents"
+  desc "The open-source governance layer for AI agents"
   homepage "https://github.com/sipyourdrink-ltd/bernstein"
   # URL and sha256 are auto-updated by CI on each release
-  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.18.2.tar.gz"
-  sha256 "03a0fd4eb1d077383a9b45c35591088d9874746d8dfa34daed68017e04611cf6"
+  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.19.0.tar.gz"
+  sha256 "584620be3d26abe56f39892f1a42e734f2897ae8e0065974e3cc96e357cad8b3"
   license "Apache-2.0"
   head "https://github.com/sipyourdrink-ltd/bernstein.git", branch: "main"
 
