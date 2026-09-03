@@ -4,8 +4,8 @@ class Bernstein < Formula
   desc "The open-source governance layer for AI agents"
   homepage "https://github.com/sipyourdrink-ltd/bernstein"
   # URL and sha256 are auto-updated by CI on each release
-  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.19.0.tar.gz"
-  sha256 "584620be3d26abe56f39892f1a42e734f2897ae8e0065974e3cc96e357cad8b3"
+  url "https://files.pythonhosted.org/packages/source/b/bernstein/bernstein-3.19.1.tar.gz"
+  sha256 "5eeb8a4f91e22a00fb7bf600d15d37578fb68a4a55cf1a71d495633df93a2df7"
   license "Apache-2.0"
   head "https://github.com/sipyourdrink-ltd/bernstein.git", branch: "main"
 
